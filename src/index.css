@@ -258,9 +258,9 @@ hr {
 }
 
 .carousel .slider-wrapper {
-  width: 60px;
+  /* width: 60px; */
   /* margin: 0px; */
-  margin-top: 20% !important;
+  margin-top: 12% !important;
   height: 300px!important;
 }
 
@@ -300,27 +300,6 @@ hr {
 .thumbs-wrapper button {
   display: none;
 }
-
-/* .control-prev {
-  margin-left: -91px;
-}
-.control-prev::before {
-  margin: 0 5px;
-  display: inline-block;
-  border-top: 8px solid transparent;
-  border-bottom: 8px solid transparent;
-  content: "";
-}
-.control-next {
-  margin-right: -91px;
-}
-.control-next::before {
-  margin: 0 5px;
-  display: inline-block;
-  border-top: 8px solid transparent;
-  border-bottom: 8px solid transparent;
-  content: "";
-} */
 
 .hide {
   display: none;
