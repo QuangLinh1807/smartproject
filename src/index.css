@@ -255,13 +255,14 @@ hr {
 
 .carousel .slider {
   width: 90%;
+  margin: 2px;
 }
 
 .carousel .slider-wrapper {
   /* width: 60px; */
   /* margin: 0px; */
   margin-top: 12% !important;
-  height: 300px!important;
+  height: 325px!important;
 }
 
 .thumbs-wrapper {
